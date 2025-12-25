@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Manas%20Borisagar&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20UI/UX%20Enthusiast%20%7C%20Tech%20Innovator&descSize=14&descAlignY=55"/>
 
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=80&lines=%F0%9F%91%8B+Hey+there!+I'm+Manas;%F0%9F%9A%80+Building+Digital+Experiences;%E2%9C%A8+Turning+Ideas+Into+Reality" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=80&lines=%F0%9F%91%8B+Hey+there!+I'm+Manas;%F0%9F%9A%80+Building+Digital+Experiences" alt="Typing SVG" /></a>
 
 <!-- Profile Views & Social Badges -->
 <p>
