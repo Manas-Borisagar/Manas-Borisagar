@@ -229,8 +229,8 @@ const manas = {
 
 <br/><br/>
 
-<!-- Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<!-- Custom Quote -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=%E2%80%9CI+don't+just+write+code%2C+I+craft+experiences.%E2%80%9D;%E2%80%9CBuilding+tomorrow's+web%2C+one+commit+at+a+time.%E2%80%9D;%E2%80%9CDream+it.+Design+it.+Deploy+it.%E2%80%9D" alt="Custom Quote" />
 
 </div>
 
