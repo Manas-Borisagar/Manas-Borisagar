@@ -1,15 +1,19 @@
+<!-- ===================== -->
 <!-- ANIMATED INTRO -->
+<!-- ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Manas+Borisagar;Full+Stack+Web+Developer;Building+Real+World+Products;React+%7C+Firebase+%7C+Cloudflare;UPI+Systems+%26+Scalable+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Manas+Borisagar;Full+Stack+Web+Developer;Building+Real+World+Web+Apps;React+%7C+Firebase+%7C+Cloudflare;Performance+%7C+SEO+%7C+Scalability" />
 </h1>
 
 <p align="center">
-  <b>Portfolio ranks #1 on Google for “Manas Borisagar”</b> 🚀
+  <b>🚀 Portfolio ranks #1 on Google for “Manas Borisagar”</b>
 </p>
 
----
+<br/>
 
+<!-- ===================== -->
 <!-- SOCIAL LINKS -->
+<!-- ===================== -->
 <p align="center">
   <a href="https://maanas-dev.me">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" />
@@ -22,45 +26,51 @@
   </a>
 </p>
 
----
+<br/>
 
+<!-- ===================== -->
 <!-- ABOUT -->
+<!-- ===================== -->
 <h2>🚀 About Me</h2>
 
 <ul>
-  <li>🎯 Full Stack Developer focused on real-world applications</li>
-  <li>⚡ Strong in React, Firebase, Cloudflare & modern web stacks</li>
-  <li>🔥 Building products used by real users</li>
-  <li>📈 Personal brand ranks on Google</li>
+  <li>🎯 Full Stack Developer focused on <b>real-world, production-ready applications</b></li>
+  <li>⚡ Strong in <b>React, Firebase, Cloudflare, modern frontend stacks</b></li>
+  <li>🔥 Build-first mindset — learning by shipping real products</li>
+  <li>📈 Strong SEO + performance awareness</li>
 </ul>
 
----
+<br/>
 
-<!-- SKILLS -->
+<!-- ===================== -->
+<!-- TECH STACK -->
+<!-- ===================== -->
 <h2>🛠 Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,firebase,nodejs,tailwind,git,github,cloudflare,netlify&perline=6" />
 </p>
 
----
+<br/>
 
+<!-- ===================== -->
 <!-- PROJECTS -->
+<!-- ===================== -->
 <h2>📌 Featured Projects</h2>
 
 <table>
 <tr>
 <td width="50%">
 
-### 🌐 Portfolio  
-Personal portfolio ranking on Google  
+### 🌐 My Portfolio  
+Personal portfolio website  
 🔗 https://maanas-dev.me
 
 </td>
 <td width="50%">
 
 ### 🏭 MG Microns  
-Business website  
+Business landing website  
 🔗 https://mg-microns.netlify.app
 
 </td>
@@ -70,14 +80,14 @@ Business website
 <td width="50%">
 
 ### 🚗 DriveNox  
-Modern landing website  
+Modern landing page  
 🔗 https://drivenox.netlify.app
 
 </td>
 <td width="50%">
 
 ### 🛒 Online Store  
-FakeStore API project  
+FakeStore API based store  
 🔗 https://fakestore-du.netlify.app
 
 </td>
@@ -87,14 +97,14 @@ FakeStore API project
 <td width="50%">
 
 ### 📖 Bhagavad Gita  
-Spiritual web app  
+Spiritual web application  
 🔗 https://bhagavadgita-du.netlify.app
 
 </td>
 <td width="50%">
 
 ### 🧾 Invoice Generator  
-Invoice generation tool  
+Invoice creation utility  
 🔗 https://invoice-manas.netlify.app
 
 </td>
@@ -112,9 +122,11 @@ Cloudflare-based tracker
 </tr>
 </table>
 
----
+<br/>
 
+<!-- ===================== -->
 <!-- GITHUB STATS -->
+<!-- ===================== -->
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
@@ -125,9 +137,11 @@ Cloudflare-based tracker
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manas-Borisagar&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<br/>
 
+<!-- ===================== -->
 <!-- FOOTER -->
+<!-- ===================== -->
 <p align="center">
-  <i>Building. Learning. Scaling.</i>
+  <i>Building • Learning • Scaling</i>
 </p>
