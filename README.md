@@ -1,133 +1,260 @@
 <div align="center">
 
-<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Manas+Borisagar;I+Build+Pixel-Perfect+Webs;React+%2B+TypeScript+Specialist;Problem+Solver](https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D36%26pause%3D1000%26color%3D38BDF8%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DHi%252C%2BI%27m%2BManas%2BBorisagar%3BI%2BBuild%2BPixel-Perfect%2BWebs%3BReact%2B%252B%2BTypeScript%2BSpecialist%3BProblem%2BSolver)" alt="Typing SVG" />
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Manas%20Borisagar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20UI/UX%20Enthusiast%20%7C%20Tech%20Innovator&descSize=18&descAlignY=52"/>
 
-<p align="center">
-<a href="[https://maanas-dev.me](https://maanas-dev.me)">
-<img src="[https://img.shields.io/badge/Portfolio-maanas--dev.me-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-maanas--dev.me-0ea5e9%3Fstyle%3Dfor-the-badge%26logo%3Dgooglechrome%26logoColor%3Dwhite)" alt="Portfolio" />
-</a>
-<a href="[https://www.linkedin.com/in/manas-borisagar-202925321/](https://www.linkedin.com/in/manas-borisagar-202925321/)">
-<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite)" alt="LinkedIn" />
-</a>
-<a href="[https://www.instagram.com/maanas_18](https://www.instagram.com/maanas_18)">
-<img src="[https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Instagram-Follow-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite)" alt="Instagram" />
-</a>
-</p>
+<!-- Animated Typing -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Hey+there!+I'm+Manas+Borisagar;%F0%9F%9A%80+Building+Digital+Experiences+That+Matter;%E2%9C%A8+Turning+Ideas+Into+Reality" alt="Typing SVG" /></a>
 
-<br />
-
-<h3>👨‍💻 About Me</h3>
-<p width="600px">
-I am a <strong>Full Stack Web Developer</strong> passionate about building scalable, high-performance web applications. <br />
-Currently focused on the <strong>React Ecosystem</strong> and <strong>Cloud Architecture</strong>.
-</p>
+<!-- Profile Views & Social Badges -->
 <p>
-<em>🚀 <strong>Fun Fact:</strong> My portfolio ranks <strong>#1 on Google</strong> when searching "Manas Borisagar".</em>
+<img src="https://komarev.com/ghpvc/?username=Manas-Borisagar&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+<a href="https://linkedin.com/in/manas-borisagar-202925321"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://instagram.com/maanas_18"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://maanas-dev.me"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-<br />
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3>🛠️ Technical Arsenal</h3>
+</div>
+
+<!-- About Me Section -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+```javascript
+const manas = {
+    pronouns: "he" | "him",
+    location: "India 🇮🇳",
+    currentFocus: "Building Innovative Web Solutions",
+    funFact: "I rank #1 on Google for 'Manas Borisagar' 🏆"
+};
+```
+
+- 🔭 Currently working on **cutting-edge web applications**
+- 🌱 Always learning **new technologies & frameworks**
+- 💡 Passionate about **clean code & pixel-perfect UI**
+- 🎯 Goal: **Creating impactful digital experiences**
+- ⚡ Fun fact: **I turn coffee into code** ☕
+
+<br clear="right"/>
+
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Tech Stack -->
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"> **Tech Arsenal**
+
+<div align="center">
+
+### 💻 Languages
 <p>
-<a href="[https://skillicons.dev](https://skillicons.dev)">
-<img src="[https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,firebase,nodejs,tailwind,git,github,cloudflare,netlify,vscode&perline=14&theme=dark](https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,ts,react,nextjs,firebase,nodejs,tailwind,git,github,cloudflare,netlify,vscode%26perline%3D14%26theme%3Ddark)" alt="My Skills" />
-</a>
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,java&theme=dark" />
+</p>
+
+### 🚀 Frameworks & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,vercel,netlify,mongodb&theme=dark" />
 </p>
 
 </div>
 
-<br />
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">💎 Featured Projects</h3>
+<!-- Featured Projects -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> **Featured Projects**
+
 <div align="center">
+
 <table>
-<thead align="center">
 <tr>
-<th width="200px">Project</th>
-<th width="400px">Description & Stack</th>
-<th width="150px">Live Demo</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><strong>My Portfolio</strong></td>
-<td align="center">The central hub of my digital presence. High SEO ranking.
-
-
-
-<code>React</code> <code>Framer Motion</code></td>
-<td align="center"><a href="[https://maanas-dev.me](https://maanas-dev.me)"><strong>View Live ↗</strong></a></td>
-</tr>
-<tr>
-<td align="center"><strong>MG Microns</strong></td>
-<td align="center">Corporate website for an industrial client.
-
-
-
-<code>React</code> <code>Tailwind</code> <code>Netlify</code></td>
-<td align="center"><a href="[https://mg-microns.netlify.app](https://mg-microns.netlify.app)"><strong>View Live ↗</strong></a></td>
-</tr>
-<tr>
-<td align="center"><strong>Attendance Tracker</strong></td>
-<td align="center">Efficient tracking tool built for Darshan University.
-
-
-
-<code>PWA</code> <code>Cloudflare</code> <code>JS</code></td>
-<td align="center"><a href="[https://du-attendance.pages.dev](https://du-attendance.pages.dev)"><strong>View Live ↗</strong></a></td>
+<td width="50%">
+<h3 align="center">🌐 Portfolio Website</h3>
+<p align="center">
+<a href="https://maanas-dev.me" target="_blank">
+<img src="https://img.shields.io/badge/LIVE-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+<p align="center">
+<strong>Personal portfolio showcasing my work & skills</strong><br/>
+<code>React</code> <code>Modern UI</code> <code>Animations</code>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">🏭 MG Microns</h3>
+<p align="center">
+<a href="https://mg-microns.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/LIVE-00C853?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+</p>
+<p align="center">
+<strong>Professional industrial website</strong><br/>
+<code>Business</code> <code>Corporate</code> <code>Responsive</code>
+</p>
+</td>
 </tr>
 <tr>
-<td align="center"><strong>Invoice Generator</strong></td>
-<td align="center">Professional invoice creation tool with PDF export.
-
-
-
-<code>React</code> <code>Logic</code></td>
-<td align="center"><a href="[https://invoice-manas.netlify.app](https://invoice-manas.netlify.app)"><strong>View Live ↗</strong></a></td>
+<td width="50%">
+<h3 align="center">🚗 DriveNox</h3>
+<p align="center">
+<a href="https://drivenox.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/LIVE-00C853?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+</p>
+<p align="center">
+<strong>Automotive excellence platform</strong><br/>
+<code>Modern Design</code> <code>Interactive</code> <code>Dynamic</code>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">🛒 Online Store</h3>
+<p align="center">
+<a href="https://fakestore-du.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/LIVE-00C853?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+</p>
+<p align="center">
+<strong>E-commerce platform with modern UX</strong><br/>
+<code>E-Commerce</code> <code>Cart System</code> <code>API Integration</code>
+</p>
+</td>
 </tr>
 <tr>
-<td align="center"><strong>DriveNox</strong></td>
-<td align="center">A robust file storage and management simulation.
-
-
-
-<code>React</code> <code>Firebase</code></td>
-<td align="center"><a href="[https://drivenox.netlify.app](https://drivenox.netlify.app)"><strong>View Live ↗</strong></a></td>
+<td width="50%">
+<h3 align="center">📖 Bhagavad Gita</h3>
+<p align="center">
+<a href="https://bhagavadgita-du.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/LIVE-00C853?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+</p>
+<p align="center">
+<strong>Digital spiritual guide</strong><br/>
+<code>Content Platform</code> <code>Elegant UI</code> <code>Sacred Texts</code>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">📊 Attendance Tracker</h3>
+<p align="center">
+<a href="https://du-attendance.pages.dev" target="_blank">
+<img src="https://img.shields.io/badge/LIVE-00C853?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+</a>
+</p>
+<p align="center">
+<strong>Smart attendance management system</strong><br/>
+<code>Productivity</code> <code>Analytics</code> <code>Cloud-Native</code>
+</p>
+</td>
 </tr>
 <tr>
-<td align="center"><strong>Bhagavad Gita</strong></td>
-<td align="center">Digital scripture reader with elegant UI.
-
-
-
-<code>API Integration</code> <code>React</code></td>
-<td align="center"><a href="[https://bhagavadgita-du.netlify.app](https://bhagavadgita-du.netlify.app)"><strong>View Live ↗</strong></a></td>
+<td colspan="2">
+<h3 align="center">📄 Invoice Generator</h3>
+<p align="center">
+<a href="https://invoice-manas.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/LIVE-00C853?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+</p>
+<p align="center">
+<strong>Professional invoice creation tool</strong><br/>
+<code>Business Tool</code> <code>PDF Generation</code> <code>Clean UI</code>
+</p>
+</td>
 </tr>
-</tbody>
 </table>
+
 </div>
 
-<br />
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">📊 GitHub Analytics</h3>
+<!-- GitHub Stats -->
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="32"> **GitHub Analytics**
+
 <div align="center">
-<img src="[https://github-readme-stats.vercel.app/api?username=Manas-Borisagar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DManas-Borisagar%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D38BDF8%26icon_color%3D38BDF8)" height="150" alt="stats graph" />
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-Borisagar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&langs_count=6](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DManas-Borisagar%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D38BDF8%26langs_count%3D6)" height="150" alt="languages graph" />
+  
+<a href="https://github.com/Manas-Borisagar">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manas-Borisagar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&border_color=6C63FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-Borisagar&layout=compact&langs_count=8&theme=radical&border_radius=15&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&border_color=6C63FF"/>
+</a>
+
+<br/><br/>
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manas-Borisagar&theme=radical&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&border=6C63FF&border_radius=15" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manas-Borisagar&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+
 </div>
+
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Trophy Section -->
+## 🏆 **GitHub Trophies**
+
 <div align="center">
-<img src="[https://github-readme-streak-stats.herokuapp.com/?user=Manas-Borisagar&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8](https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DManas-Borisagar%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0d1117%26ring%3D38BDF8%26fire%3D38BDF8%26currStreakLabel%3D38BDF8)" alt="streak graph" />
+<img src="https://github-profile-trophy.vercel.app/?username=Manas-Borisagar&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
 </div>
 
-<br />
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Connect Section -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> **Let's Connect!**
 
 <div align="center">
-<img src="[https://github-readme-activity-graph.vercel.app/graph?username=Manas-Borisagar&bg_color=0d1117&color=38BDF8&line=38BDF8&point=ffffff&area=true&hide_border=true](https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DManas-Borisagar%26bg_color%3D0d1117%26color%3D38BDF8%26line%3D38BDF8%26point%3Dffffff%26area%3Dtrue%26hide_border%3Dtrue)" width="100%" alt="Activity Graph" />
+
+<a href="https://maanas-dev.me">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010" />
+</a>
+<a href="https://linkedin.com/in/manas-borisagar-202925321">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" />
+</a>
+<a href="https://instagram.com/maanas_18">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010" />
+</a>
+<a href="mailto:maanas.builds@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" />
+</a>
+
+<br/><br/>
+
+<!-- Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
 </div>
 
-<br />
+<!-- Snake Animation -->
+<div align="center">
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 <div align="center">
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer](https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0d1117%26height%3D100%26section%3Dfooter)" width="100%" />
-<br />
-<sub style="color: #888;">Designed & Built by Manas Borisagar</sub>
+  
+### 💜 Thanks for visiting! 
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70">
+
+**"Code is poetry written in logic"**
+
+⭐ **Star my repos if you find them interesting!** ⭐
+
 </div>
